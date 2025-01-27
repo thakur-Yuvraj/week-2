@@ -73,6 +73,7 @@ class MotorCycle extends Vehicle {
 
 public class VehicleAndTransportSystem {
     public static void main(String[] args) {
+        
         // Truck object created
         Truck truck1 = new Truck(89.5, "Diesel", 5);
         // Displaying the detail of the truck object
